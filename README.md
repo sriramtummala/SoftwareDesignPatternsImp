@@ -6,6 +6,8 @@ Creational
 
 a. AbstractFactory
 
+b. Singleton
+
 Behavioural
 
 a. Chain of responsibility
