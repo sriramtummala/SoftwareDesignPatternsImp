@@ -11,6 +11,7 @@ b. Singleton
 ---Behavioural
 
 a. Chain of responsibility
+
 b. Command
 
 ---Structural
